@@ -1,7 +1,5 @@
 # Sales Performance Dashboard
 
-**by Sattwik**
-
 A fully interactive, offline-capable sales analytics dashboard built as a personal data project. Bring your own sales CSV, or explore the bundled demo dataset — every chart, KPI, and table recomputes live in the browser as you filter, search, or drill in.
 
 **[Open `sales_performance_dashboard.html`](./sales_performance_dashboard.html) in any browser to use it — no install, no server, no internet connection required.**
@@ -52,14 +50,10 @@ python 02_clean_and_analyze.py    # writes cleaned_sales_data.csv + the dashboar
 
 ## Author
 
-Built and designed by **Sattwik**.
+Built by **Sattwik**.
 
 <!-- Add your links here, e.g.:
 - GitHub: https://github.com/your-username
 - LinkedIn: https://linkedin.com/in/your-handle
 - Portfolio: https://your-site.com
 -->
-
-## License
-
-© Sattwik. This project is shared for portfolio/demonstration purposes. If you'd like to make it open-source, add an [MIT LICENSE](https://choosealicense.com/licenses/mit/) file to the repo — that's the standard choice for projects like this and makes the terms explicit for anyone who finds it on GitHub.
